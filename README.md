@@ -7,6 +7,8 @@
 Guia de Serviços
 ====
 
+[![Join the chat at https://gitter.im/mauriciomelo/guia-de-servicos](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mauriciomelo/guia-de-servicos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Este é o repositório oficial do Guia de Serviços. Uma versão [alpha](http://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha), constantemente atualizada, está disponível em http://gds-alpha.herokuapp.com.
 
 Documentação
